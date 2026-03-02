@@ -207,21 +207,6 @@ function handleQuery(query, graph) {
 // ─────────────────────────────────────────────
 // COMPONENTS
 // ─────────────────────────────────────────────
-function LineTag({ line }) {
-  const color = LINE_COLORS[line] || "#888";
-  return (
-    <span style={{
-      background: color + "22",
-      color: color,
-      border: `1px solid ${color}44`,
-      borderRadius: 4,
-      padding: "1px 7px",
-      fontSize: 11,
-      fontWeight: 600,
-      whiteSpace: "nowrap",
-    }}>{line}</span>
-  );
-}
 
 function RouteResult({ result }) {
   const { stations, dist, src, dst } = result;
@@ -358,7 +343,7 @@ export default function App() {
     { role: "bot", text: "Namaste! 🚇 Welcome to Rapid Route — your Delhi Metro guide.\n\nTry asking:\n• Route from Rajiv Chowk to Hauz Khas\n• Stations on Red line\n• Is Kashmere Gate an interchange?" }
   ]);
   const [input, setInput] = useState("");
-  const [activeLine, setActiveLine] = useState(null);
+  const [activeLine] = useState(null);
   const chatRef = useRef(null);
   const inputRef = useRef(null);
 
