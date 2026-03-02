@@ -1,0 +1,286 @@
+Station_ID,Station_Name,Distance_km,Metro_Line
+1,Shaheed Sthal(First Station),0,Red line
+2,Hindon River,1,Red line
+3,Arthala,2.5,Red line
+4,Mohan Nagar,3.2,Red line
+5,Shyam park,4.5,Red line
+6,Major Mohit Sharma,5.7,Red line
+7,Raj Bagh,6.9,Red line
+8,Shaheed Nagar,8.2,Red line
+9,Dilshad Garden,9.4,Red line
+10,Jhil Mil,10.3,Red line
+11,Mansarovar Park,11.4,Red line
+12,Shahdara,12.5,Red line
+13,Welcome [Conn: Pink],13.7,Red line
+14,Seelampur,14.8,Red line
+15,Shastri Park,16.4,Red line
+16,"Kashmere Gate [Conn: Violet,Yellow]",18.5,Red line
+17,Tis Hazari,19.7,Red line
+18,Pul Bangash,20.6,Red line
+19,Pratap Nagar,21.4,Red line
+20,Shastri Nagar,23.1,Red line
+21,Inderlok [Conn: Green],24.3,Red line
+22,Kanhaiya Nagar,25.5,Red line
+23,Keshav Puram,26.2,Red line
+24,Netaji Subash Place [Conn: Pink],27.4,Red line
+25,Kohat Enclave,28.6,Red line
+26,Pitam Pura,29.6,Red line
+27,Rohini East,30.4,Red line
+28,Rohini West,31.7,Red line
+29,Rithala(last station),32.7,Red line
+1,Samaypur Badli(First Station),0,Yellow line
+2,Rohini Sector 18-19,0.8,Yellow line
+3,Haiderpur Badli Mor,2.1,Yellow line
+4,Jahangirpuri,3.4,Yellow line
+5,Adarsh Nagar,4.7,Yellow line
+6,Azadpur [Conn: Pink],6.2,Yellow line
+7,Model Town,7.6,Yellow line
+8,Guru Tegh Bahadur Nagar,9,Yellow line
+9,Vishwavidyalaya,9.8,Yellow line
+10,Vidhan Sabha,10.8,Yellow line
+11,Civil Lines,12.1,Yellow line
+12,Kashmere Gate [Conn: Violet],13.2,Yellow line
+13,Chandni Chowk,14.3,Yellow line
+14,Chawri Bazar,15.3,Yellow line
+15,New Delhi [Conn: Orange],16.1,Yellow line
+16,Rajiv Chowk [Conn: Blue],17.2,Yellow line
+17,Patel Chowk,18.5,Yellow line
+18,Central Secretariat [Conn: Violet],19.4,Yellow line
+19,Udyog Bhawan,19.7,Yellow line
+20,Lok Kalyan Marg,21.3,Yellow line
+21,Jor Bagh,22.5,Yellow line
+22,Dilli Haat INA [Conn: Pink],23.8,Yellow line
+23,AIIMS,24.6,Yellow line
+24,Green Park,25.6,Yellow line
+25,Hauz Khas [Conn: Magenta],27.4,Yellow line
+26,Malviya Nagar,29.1,Yellow line
+27,Saket,30,Yellow line
+28,Qutab Minar,31.7,Yellow line
+29,Chhattarpur,33,Yellow line
+30,Sultanpur,34.6,Yellow line
+31,Ghitorni,35.9,Yellow line
+32,Arjan Garh,38.6,Yellow line
+33,Guru Dronacharya,40.9,Yellow line
+34,Sikandarpur [Conn: Rapid],41.9,Yellow line
+35,MG Road,43.1,Yellow line
+36,IFFCO Chowk,44.2,Yellow line
+37,Huda City Centre,45.7,Yellow line
+1,Dwarka Sector 21(First station) [Conn: Orange],0,Blue line
+2,Dwarka Sector 8,1.7,Blue line
+3,Dwarka Sector 9,2.7,Blue line
+4,Dwarka Sector 10,3.8,Blue line
+5,Dwarka Sector 11,4.8,Blue line
+6,Dwarka Sector 12,5.8,Blue line
+7,Dwarka Sector 13,6.7,Blue line
+8,Dwarka Sector 14,7.6,Blue line
+9,Dwarka [Conn: Gray],9.1,Blue line
+10,Dwarka Mor,10.2,Blue line
+11,Nawada,11.4,Blue line
+12,Uttam Nagar West,12.4,Blue line
+13,Uttam Nagar East,13.4,Blue line
+14,Janak Puri West [Conn: Magenta],14.7,Blue line
+15,Janak Puri East,15.7,Blue line
+16,Tilak Nagar,16.7,Blue line
+17,Subhash Nagar,17.6,Blue line
+18,Tagore Garden,18.5,Blue line
+19,Rajouri Garden [Conn: Pink],19.6,Blue line
+20,Ramesh Nagar,20.6,Blue line
+21,Moti Nagar,21.8,Blue line
+22,Kirti Nagar [Conn: Green],22.8,Blue line
+23,Shadipur,23.5,Blue line
+24,Patel Nagar,24.8,Blue line
+25,Rajendra Place,25.7,Blue line
+26,Karol Bagh,26.7,Blue line
+27,Jhandewalan,27.9,Blue line
+28,R K Ashram Marg,28.9,Blue line
+29,Rajiv Chowk [Conn: Yellow],30.1,Blue line
+30,Barakhamba,30.8,Blue line
+31,Mandi House [Conn: Violet],31.8,Blue line
+32,Supreme Court (Pragati Maidan),32.6,Blue line
+33,Indraprastha,33.4,Blue line
+34,Yamuna Bank,35.2,Blue line
+35,Akshardham,36.5,Blue line
+36,Mayur Vihar Phase-1 [Conn: Pink],38.3,Blue line
+37,Mayur Vihar Extention,39.5,Blue line
+38,New Ashok Nagar,40.4,Blue line
+39,Noida Sector 15,41.4,Blue line
+40,Noida Sector 16,42.5,Blue line
+41,Noida Sector 18,43.6,Blue line
+42,Botanical Garden [Conn: Magenta],44.7,Blue line
+43,Golf Course,45.9,Blue line
+44,Noida City Center,47.2,Blue line
+45,Noida Sector 34,48.1,Blue line
+46,Noida Sector 52 [Conn: Aqua],49.3,Blue line
+47,Noida Sector 61,50.5,Blue line
+48,Noida Sector 59,51.5,Blue line
+49,Noida Sector 62,52.7,Blue line
+1,Yamuna Bank,0,Blue line branch
+2,Laxmi Nagar,1.3,Blue line branch
+3,Nirman Vihar,2.4,Blue line branch
+4,Preet Vihar,3.4,Blue line branch
+5,Karkar Duma [Conn: Pink],4.6,Blue line branch
+6,Anand Vihar [Conn: Pink],5.7,Blue line branch
+7,Kaushambi,6.5,Blue line branch
+8,Vaishali,8.1,Blue line branch
+1,Ashok Park Main,0,Green line branch
+2,Satguru Ram Singh Marg,1.1,Green line branch
+3,Kirti Nagar [Conn: Blue],2.1,Green line branch
+1,Inderlok Conn:Red,0,Green line
+2,Ashok Park Main,1.4,Green line
+3,Punjabi Bagh,2.3,Green line
+4,Shivaji Park,3.9,Green line
+5,Madipur,5,Green line
+6,Paschim Vihar (East),5.7,Green line
+7,Paschim Vihar (West),6.7,Green line
+8,Peera Garhi,7.6,Green line
+9,Udyog Nagar,8.8,Green line
+10,Maharaja Surajmal Stadium,9.5,Green line
+11,Nangloi,10.3,Green line
+12,Nangloi Railway Station,11.2,Green line
+13,Rajdhani Park,12.4,Green line
+14,Mundka,13.7,Green line
+15,Mundka Industrial Area (MIA),15,Green line
+16,Ghevra Metro station,17.1,Green line
+17,Tikri Kalan,18.9,Green line
+18,Tikri Border,20.2,Green line
+19,Pandit Shree Ram Sharma,21.5,Green line
+20,Bahdurgarh City,23,Green line
+21,Brigadier Hoshiar Singh,24.8,Green line
+1,Sector 55-66,0,Rapid Metro
+2,Sector 54 Chowk,1.1,Rapid Metro
+3,Sector 53-54,2.6,Rapid Metro
+4,Sector 42-43,3.9,Rapid Metro
+5,DLF Phase 1,5.5,Rapid Metro
+6,Sikandarpur [Conn: Yellow],6.6,Rapid Metro
+7,DLF Phase 2,7.3,Rapid Metro
+8,Belvedere Towers ,8,Rapid Metro
+9,Cyber City ,8.6,Rapid Metro
+10,Moulsari Avenue,9.2,Rapid Metro
+11,DLF Phase 3,10,Rapid Metro
+1,Kashmere Gate [Conn: Yellow],0,Voilet line
+2,Lal Quila,1.5,Voilet line
+3,Jama Masjid,2.3,Voilet line
+4,Delhi Gate,3.7,Voilet line
+5,ITO,5,Voilet line
+6,Mandi House [Conn: Blue],5.8,Voilet line
+7,Janpath,7.2,Voilet line
+8,Central Secretariat [Conn: Yellow],8.5,Voilet line
+9,Khan Market,10.6,Voilet line
+10,Jawaharlal Nehru Stadium,12,Voilet line
+11,Jangpura,12.9,Voilet line
+12,Lajpat Nagar [Conn: Pink],14.4,Voilet line
+13,Moolchand,15.1,Voilet line
+14,Kailash Colony,16.4,Voilet line
+15,Nehru Place,17.4,Voilet line
+16,Kalkaji Mandir [Conn: Magenta],18.2,Voilet line
+17,Govind Puri,18.9,Voilet line
+18,Okhla,20,Voilet line
+19,Jasola,20.9,Voilet line
+20,Sarita Vihar,22.1,Voilet line
+21,Mohan Estate,23.3,Voilet line
+22,Tughlakabad,25.2,Voilet line
+23,Badarpur Border,26.3,Voilet line
+24,Sarai,28.8,Voilet line
+25,N.H.P.C. Chowk,30.4,Voilet line
+26,Mewala Maharajpur,31.3,Voilet line
+27,Sector 28 Faridabad,32.5,Voilet line
+28,Badkal Mor,34.2,Voilet line
+29,Old Faridabad,35.4,Voilet line
+30,Neelam Chowk Ajronda,37,Voilet line
+31,Bata Chowk,38.3,Voilet line
+32,Escorts Mujesar,40.1,Voilet line
+33,Sant Surdas - Sihi,41.8,Voilet line
+34,Raja Nahar Singh,43.5,Voilet line
+1,Janak Puri West [Conn: Blue],0,Magenta line
+2,Dabri Mor - Janakpuri South,2,Magenta line
+3,Dashrath Puri,3.1,Magenta line
+4,Palam,4.6,Magenta line
+5,Sadar Bazaar Cantonment,7.2,Magenta line
+6,Terminal 1 IGI Airport,8.9,Magenta line
+7,Shankar Vihar,10.7,Magenta line
+8,Vasant Vihar,12.8,Magenta line
+9,Munirka,14,Magenta line
+10,RK Puram,15.4,Magenta line
+11,IIT Delhi,16.3,Magenta line
+12,Hauz Khas [Conn: Yellow],17.5,Magenta line
+13,Panchsheel Park,19,Magenta line
+14,Chirag Delhi,19.9,Magenta line
+15,Greater Kailash,20.8,Magenta line
+16,Nehru Enclave,22.1,Magenta line
+17,Kalkaji Mandir [Conn: Violet],23,Magenta line
+18,Okhla NSIC,23.8,Magenta line
+19,Sukhdev Vihar,24.9,Magenta line
+20,JAMIA MILLIA ISLAMIA,26.1,Magenta line
+21,Okhla Vihar,26.6,Magenta line
+22,Jasola Vihar Shaheen Bagh,28.4,Magenta line
+23,Kalindi Kunj,29.8,Magenta line
+24,Okhla Bird Sanctuary,31.4,Magenta line
+25,Botanical Garden [Conn: Blue],33.1,Magenta line
+1,Majlis Park,0,Pink line
+2,Azadpur [Conn: Yellow],2.1,Pink line
+3,Shalimar Bagh,3.7,Pink line
+4,Netaji Subash Place [Conn: Red],5.1,Pink line
+5,Shakurpur,6.3,Pink line
+6,Punjabi Bagh West,7.7,Pink line
+7,ESI BASAI DARAPUR,10.2,Pink line
+8,Rajouri Garden [Conn: Blue],11.3,Pink line
+9,Maya Puri,12.8,Pink line
+10,Naraina Vihar,14.3,Pink line
+11,Delhi Cantt,16.1,Pink line
+12,Durgabai Deshmukh South Campus [Conn: Orange],19.7,Pink line
+13,Sir Vishweshwaraiah Moti Bagh,21,Pink line
+14,Bhikaji Cama Place,22.6,Pink line
+15,Sarojini Nagar,23.8,Pink line
+16,Dilli Haat INA [Conn: Yellow],24.9,Pink line
+17,South Extension,26.1,Pink line
+18,Lajpat Nagar [Conn: Violet],27.7,Pink line
+19,Vinobapuri,29.1,Pink line
+20,Ashram,30.3,Pink line
+21,Sarai Kale Khan Hazrat Nizamuddin,32.2,Pink line
+22,Mayur Vihar Phase-1 [Conn: Blue],35.8,Pink line
+23,Mayur Vihar Pocket I,36.6,Pink line
+24,Trilokpuri Sanjay Lake,37.9,Pink line
+25,Vinod Nagar East,38.7,Pink line
+26,Mandawali - West Vinod Nagar,39.3,Pink line
+27,IP Extension,40.3,Pink line
+28,Anand Vihar [Conn: Blue],41.9,Pink line
+29,Karkar Duma [Conn: Blue],42.9,Pink line
+30,Karkarduma Court,44,Pink line
+31,Krishna Nagar,44.7,Pink line
+32,East Azad Nagar,45.7,Pink line
+33,Welcome [Conn: Red],46.8,Pink line
+34,Jaffrabad,48,Pink line
+35,Maujpur,49.1,Pink line
+36,Gokulpuri,50.4,Pink line
+37,Johri Enclave,51.7,Pink line
+38,Shiv Vihar,52.6,Pink line
+1,Noida Sector 51 [Conn: Blue],0,Aqua line
+2,Noida Sector 50,1.3,Aqua line
+3,Noida Sector 76,2.3,Aqua line
+4,Noida Sector 101,3.4,Aqua line
+5,Noida Sector 81,4.3,Aqua line
+6,NSEZ Noida,6.3,Aqua line
+7,Noida Sector 83,7.4,Aqua line
+8,Noida Sector 137,8.9,Aqua line
+9,Noida Sector 142,10.5,Aqua line
+10,Noida Sector 143,11.5,Aqua line
+11,Noida Sector 144,12.9,Aqua line
+12,Noida Sector 145,14.1,Aqua line
+13,Noida Sector 146,15.8,Aqua line
+14,Noida Sector 147,17.3,Aqua line
+15,Noida Sector 148,18.9,Aqua line
+16,Knowledge Park II,21.4,Aqua line
+17,Pari Chowk Greater Noida,22.5,Aqua line
+18,Alpha 1 Greater Noida,23.4,Aqua line
+19,Delta 1 Greater Noida,24.9,Aqua line
+20,GNIDA Office,26.2,Aqua line
+21,Depot Greater Noida,27.1,Aqua line
+1,Dwarka [Conn: Blue],0,Gray line
+2,Nangli,1.5,Gray line
+3,Najafgarh,3.9,Gray line
+1,New Delhi-Airport Express [Conn: Yellow],0,Orange line
+2,Shivaji Stadium,1.9,Orange line
+3,Dhaula Kuan [Conn: Pink],8.3,Orange line
+4,Delhi Aerocity,14.5,Orange line
+5,IGI Airport,17.9,Orange line
+6,Dwarka Sector 21 [Conn: Blue],20.8,Orange line
